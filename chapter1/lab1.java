@@ -1,5 +1,5 @@
 class Main {
 	public static void main(String[] args) {
-		System.out.println("Chef");
+		System.out.println("Ksusha is learning");
 	}
 }
